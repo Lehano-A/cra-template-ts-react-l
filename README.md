@@ -1,1 +1,1 @@
-CRA template with typescript, react,  eslint, prettier, husky
+CRA template with typescript, react, styled-components, eslint, prettier, husky
