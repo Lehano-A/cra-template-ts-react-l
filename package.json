@@ -1,12 +1,21 @@
 {
   "name": "cra-template-ts-react-l",
   "version": "1.0.0",
-  "description": "",
+  "description": "CRA template with typescript, styled-components, eslint, prettier, husky",
   "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lehano-A/cra-template-ts-react-l.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "create-react-app template typescript",
+    "cra template typescript",
+    "template"
+  ],
+  "author": "Lehano <Lehano.A@yandex.ru> (https://lehano.ru)",
+  "homepage": "https://github.com/Lehano-A/cra-template-ts-react-l#readme",
   "license": "ISC"
 }
