@@ -8,7 +8,8 @@
     "url": "https://github.com/Lehano-A/cra-template-ts-react-l.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "keywords": [
     "create-react-app template typescript",
